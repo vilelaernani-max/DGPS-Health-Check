@@ -9,4 +9,4 @@ Ferramenta web de aferição de DGPS/GNSS: carrega log NMEA (GGA) ou ASCII (X, Y
 
 Os dados ficam só no navegador; nada é enviado ao servidor.
 
-Desenvolvido por Ernani Vilela - vilelaernani@gmail.com / © 2026 Ernani Vilela
+Desenvolvido por Ernani Vilela - contato@gruposolufacil.com.br / © 2026 Ernani Vilela
